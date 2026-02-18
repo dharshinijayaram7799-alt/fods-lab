@@ -1,0 +1,38 @@
+Original DataFrame:
+
+    Name  Age  Marks
+0    Ram   20     85
+1  Priya   21     90
+2   Arun   19     78
+3  Divya   22     88
+
+First 2 Rows:
+
+    Name  Age  Marks
+0    Ram   20     85
+1  Priya   21     90
+
+Average Marks: 85.25
+
+DataFrame After Adding Grade Column:
+
+    Name  Age  Marks Grade
+0    Ram   20     85     A
+1  Priya   21     90    A+
+2   Arun   19     78     B
+3  Divya   22     88     A
+
+Students Scoring Above 80:
+
+    Name  Age  Marks Grade
+0    Ram   20     85     A
+1  Priya   21     90    A+
+3  Divya   22     88     A
+
+Sorted by Marks (Descending):
+
+    Name  Age  Marks Grade
+1  Priya   21     90    A+
+3  Divya   22     88     A
+0    Ram   20     85     A
+2   Arun   19     78     B
